@@ -1,0 +1,20 @@
+{
+  "name": "smarty-js-test",
+  "version": "1.0.0",
+  "description": "Project for testing js smarty compilation for prestashop unit testing ideas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prestashop",
+    "smarty",
+    "js",
+    "javascript"
+  ],
+  "author": "Jakub Dziewoński",
+  "license": "ISC",
+  "dependencies": {
+    "smarty4js": "^0.1.8"
+  }
+}
